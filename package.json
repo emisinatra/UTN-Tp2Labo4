@@ -1,0 +1,22 @@
+{
+  "name": "tp3-typescript",
+  "version": "1.0.0",
+  "description": "Grupo: Enzo Sanchez, Cintia Rigoni, Enzo Santilli, Emiliano Sinatra, Matias San Pietro",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc TestB.ts\nnode TestB.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoLeonel/TP3-Lab.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnzoLeonel/TP3-Lab/issues"
+  },
+  "homepage": "https://github.com/EnzoLeonel/TP3-Lab#readme"
+}
